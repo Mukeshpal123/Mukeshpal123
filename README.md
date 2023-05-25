@@ -1,5 +1,23 @@
 <h1 align="center">Hi 👋, I'm Mukesh Kumar Pal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+
+## About Me 🎓
+
+  I'm a passionate web developer focused on expanding my knowledge and skills in the world of technology. My current areas of expertise include Spring Boot, H2 database, MySQL, Java core, data structures and algorithms, Git/GitHub, object-oriented programming, and AWS EC2 Instance deploy.
+
+With a strong foundation in Java and Spring Boot, I enjoy building scalable and efficient web applications. I'm experienced in working with relational databases like H2 and MySQL, ensuring seamless data management and integration. Exception handling is an integral part of my coding practice, as it helps me create robust and error-resistant applications.
+
+I'm dedicated to writing clean and well-structured code, following object-oriented programming principles to ensure maintainability and reusability. I'm continuously exploring new concepts and design patterns to enhance my development skills.
+
+Although I'm still in the early stages of my web development journey, I'm actively engaged in the developer community. I regularly contribute to personal projects on GitHub and seek opportunities to collaborate with other developers. I believe in the power of open-source contributions and the knowledge-sharing aspect of the tech industry.
+
+Currently, I'm also exploring cloud technologies, particularly AWS Elastic Beanstalk, to deploy and manage my applications. This allows me to gain hands-on experience in deploying scalable web applications in a cloud environment.
+
+I'm enthusiastic about learning and expanding my skill set. I embrace challenges and approach problem-solving with a growth mindset. I'm eager to take on new projects and opportunities to apply my skills in real-world scenarios.
+
+If you have any questions, suggestions, or collaboration opportunities related to web development or any other tech-related topics, I'd be happy to connect! You can reach me at [mukeshmech294@gmail.com].
+
+Let's embark on this exciting web development journey together! 😊
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mukeshpal123&label=Profile%20views&color=0e75b6&style=flat" alt="mukeshpal123" /> </p>
 
