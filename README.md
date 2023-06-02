@@ -3,8 +3,7 @@
 ## About Me 🎓
 
   I'm a passionate web developer focused on expanding my knowledge and skills in the world of technology. My current areas of expertise include Spring Boot, H2 database, MySQL, Java core, data structures and algorithms, Git/GitHub, object-oriented programming, and AWS EC2 .
-
-I'm enthusiastic about learning and expanding my skill set. I embrace challenges and approach problem-solving with a growth mindset. I'm eager to take on new projects and opportunities to apply my skills in real-world scenarios.
+  I'm enthusiastic about learning and expanding my skill set. I embrace challenges and approach problem-solving with a growth mindset. I'm eager to take on new projects and opportunities to apply my skills in real-world scenarios.
 
 Let's embark on this exciting web development journey together! 😊
 
