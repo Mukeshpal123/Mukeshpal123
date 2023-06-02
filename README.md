@@ -35,7 +35,7 @@ Let's embark on this exciting web development journey together! 😊
 <a href="https://instagram.com/mukeshpal294" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mukeshpal294" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mukeshpal1996_p1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mukeshpal1996_p1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mukeshpal294" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mukeshpal294" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/user_scrrc8880wa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt=user_scrrc8880wa" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/user_scrrc8880wa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt=user_scrrc8880wa height="30" width="40" /></a>
 </p>
 
 
