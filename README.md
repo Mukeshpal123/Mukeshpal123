@@ -23,7 +23,9 @@ Let's embark on this exciting web development journey together! 😊
 
 - 🤝 I’m looking for help with [Expense Tracker](https://github.com/Mukeshpal123/Expense-Tracker)
 
-- 💬 Ask me about **Java DSA and OOPS! Concept**
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1JhFR3D79WtsWm0VhBUyZdSOgun8hXELoTsZWomjAlwo/edit?usp=sharing)
+
+- 💬 Ask me about **Java DSA and OOP Concept**
 
 - 📫 How to reach me **mukeshmech294@gmail.com**
 
