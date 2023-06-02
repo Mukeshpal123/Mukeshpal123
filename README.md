@@ -3,18 +3,10 @@
 ## About Me 🎓
 
   I'm a passionate web developer focused on expanding my knowledge and skills in the world of technology. My current areas of expertise include Spring Boot, H2 database, MySQL, Java core, data structures and algorithms, Git/GitHub, object-oriented programming, and AWS EC2 Instance deploy.
-
-With a strong foundation in Java and Spring Boot, I enjoy building scalable and efficient web applications. I'm experienced in working with relational databases like H2 and MySQL, ensuring seamless data management and integration. Exception handling is an integral part of my coding practice, as it helps me create robust and error-resistant applications.
-
+  
 I'm dedicated to writing clean and well-structured code, following object-oriented programming principles to ensure maintainability and reusability. I'm continuously exploring new concepts and design patterns to enhance my development skills.
 
-Although I'm still in the early stages of my web development journey, I'm actively engaged in the developer community. I regularly contribute to personal projects on GitHub and seek opportunities to collaborate with other developers. I believe in the power of open-source contributions and the knowledge-sharing aspect of the tech industry.
-
-Currently, I'm also exploring cloud technologies, particularly AWS Elastic Beanstalk, to deploy and manage my applications. This allows me to gain hands-on experience in deploying scalable web applications in a cloud environment.
-
 I'm enthusiastic about learning and expanding my skill set. I embrace challenges and approach problem-solving with a growth mindset. I'm eager to take on new projects and opportunities to apply my skills in real-world scenarios.
-
-If you have any questions, suggestions, or collaboration opportunities related to web development or any other tech-related topics, I'd be happy to connect! You can reach me at [mukeshmech294@gmail.com].
 
 Let's embark on this exciting web development journey together! 😊
 
@@ -39,11 +31,11 @@ Let's embark on this exciting web development journey together! 😊
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/mukesh-pal-917b81264" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/mukesh-pal-917b81264" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mukesh-kumar-pal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mukesh-kumar-pal" height="30" width="40" /></a>
 <a href="https://instagram.com/mukeshpal294" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mukeshpal294" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mukeshpal1996_p1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mukeshpal1996_p1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/mukeshpal294/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/mukeshpal294/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/user_scrrc8880wa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/user_scrrc8880wa" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/mukeshpal294" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mukeshpal294" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/user_scrrc8880wa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt=user_scrrc8880wa" height="30" width="40" /></a>
 </p>
 
 
@@ -74,12 +66,6 @@ Let's embark on this exciting web development journey together! 😊
     <img src="https://th.bing.com/th/id/R.90871c6822607179f5d2cfd583f4aaeb?rik=Mjq2poldFRqyvw&riu=http%3a%2f%2fwww.hurricanesoftwares.com%2fwp-content%2fuploads%2f2009%2f06%2flogo_sql.gif&ehk=27JxvMmqZFhRjZW6EUR%2bEluINM9IT31PJLg9teQcucY%3d&risl=&pid=ImgRaw&r=0" />
       </a>
       <br>SQL
-    </td>
-    <td align="center" width="96">
-     <a href="#Mukesh-LoGo">
-        <img src="https://mpng.subpng.com/20180802/tpl/kisspng-logo-html5-brand-clip-art-%E6%9D%89-%E5%B1%B1-%E8%89%AF-%E9%9B%84-5b62be01b565d5.334247781533197825743.jpg" />
-      </a>
-      <br>HTML
     </td>
     <td align="center" width="96">
     <a href="#Mukesh-LoGo">
