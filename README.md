@@ -15,7 +15,7 @@ Let's embark on this exciting web development journey together! 😊
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mukeshpal123" alt="mukeshpal123" /></a> </p>
 
-<img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/200w.webp">
+<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5t25mw9ZSdvlG-mVue69-5V8cEsvZowVzhw&usqp=CAU"> 
 
 - 🔭 I’m currently working on [Expense Tracker](https://github.com/Mukeshpal123/Expense-Tracker)
 
